@@ -1,0 +1,11 @@
+file_name,num_tokens,num_sentences,lexical_diversity,avg_sentence_length
+"Just So Stories, by Rudyard Kipling.txt",12368,1175,0.18394243208279432,24.50127659574468
+The Wonderful Wizard of Oz | Project Gutenberg.txt,17841,1624,0.140967434560843,24.417487684729064
+"The Project Gutenberg eBook of Peter Pan, by James M. Barrie.txt",21020,2446,0.20137963843958134,19.32624693376942
+"The Project Gutenberg eBook of The Secret Garden, by Frances Hodgson Burnett.txt",36605,4696,0.1129627100122934,17.174616695059626
+"The Project Gutenberg eBook of Alice's Adventures in Wonderland, by Lewis Carroll.txt",4461,640,0.28020623178659493,15.35625
+"The Project Gutenberg eBook of A Kidnapped Santa Claus, by L. Frank Baum.txt",1838,181,0.46789989118607184,20.895027624309392
+"The Project Gutenberg eBook of The Happy Prince, by Oscar Wilde.txt",7133,767,0.25949810738819573,21.191655801825295
+"The Project Gutenberg eBook of The Marvelous Land Of Oz, by L. Frank Baum..txt",19546,1738,0.19277601555305432,23.951668584579977
+"The Project Gutenberg eBook of The Jungle Book, by Rudyard Kipling.txt",24086,2522,0.1580171053724155,20.31482950039651
+"The Project Gutenberg eBook of Treasure Island, by Robert Louis Stevenson.txt",30510,3098,0.16807604064241233,22.029051000645577

@@ -1,0 +1,11 @@
+file_name,num_tokens,num_sentences,lexical_diversity,avg_sentence_length
+"The Project Gutenberg eBook of Pride and prejudice, by Jane Austen..txt",55013,4891,0.10850162688819007,26.0034757718258
+Great Expectations | Project Gutenberg.txt,78662,7189,0.11918079886094937,25.659479760745583
+"The Project Gutenberg eBook of Pierre: or, The Ambiguities, by Herman Melville.txt",73971,5594,0.16265833907882818,27.192706471219164
+"The Project Gutenberg eBook of Mansfield Park, by Jane Austen.txt",69083,5702,0.09830204247065125,27.99666783584707
+"The Project Gutenberg eBook of Moby Dick; Or the Whale, by Herman Melville.txt",103944,9097,0.1379973832063419,23.394525667802572
+"The Project Gutenberg eBook of A Christmas Carol, by Charles Dickens..txt",13775,2000,0.27927404718693283,14.6975
+"The Life and Adventures of Nicholas Nickleby, by Charles Dickens.txt",150624,11512,0.08299474187380497,28.014419735927728
+"Bartleby, The Scrivener | Project Gutenberg.txt",6603,699,0.4016356201726488,20.55221745350501
+Hard Times | Project Gutenberg.txt,45942,4376,0.1674502633755605,23.590036563071298
+"The Project Gutenberg eBook of Sense and Sensibility, by Jane Austen.txt",51686,3969,0.10797894981232829,29.948349710254472

@@ -1,0 +1,11 @@
+file_name,num_tokens,num_sentences,lexical_diversity,avg_sentence_length
+The Aeneid | Project Gutenberg.txt,62786,4050,0.11308253432293823,26.556543209876544
+The Project Gutenberg eBook of The Iliad of Homer.txt,107754,7199,0.09954154834159289,26.275732740658423
+"The Project Gutenberg eBook of The Prophet, by Kahlil Gibran.txt",5378,626,0.30940870211974714,20.012779552715656
+"The Project Gutenberg eBook of Songs of Innocence and of Experience, by William Blake.txt",3036,258,0.3465085638998682,21.441860465116278
+"The Project Gutenberg eBook of Dante's Divine Comedy, by Dante Alighieri.txt",57954,3524,0.15935051937743727,30.82661748013621
+"The Project Gutenberg eBook of Romeo and Juliet, by William Shakespeare.txt",14163,3163,0.21767987008402176,8.207081884287069
+"The Project Gutenberg eBook of Leaves of Grass, by Walt Whitman.txt",61586,3875,0.16443672263176695,31.790709677419354
+The Project Gutenberg eBook of Beowulf: An Anglo-Saxon Epic Poem.txt,18608,2051,0.24822656921754085,19.18088737201365
+"The Project Gutenberg eBook of The Odyssey, by Homer.txt",56392,3788,0.11253369272237197,34.219640971488914
+"Poems, by Victor Hugo.txt",38772,4578,0.2161095636025998,15.382044560943644
